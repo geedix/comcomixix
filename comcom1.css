@@ -1,0 +1,77 @@
+p
+{
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: normal;
+	color: #000000;
+	list-style-type: square;
+}
+
+
+h1
+{
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #006633;
+	text-align: center;
+	letter-spacing: .2em;
+}
+h2
+{
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #545454;
+	background-color: #efcdaa;
+}
+
+
+a
+{
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000FFF;
+}
+ul
+{  
+   	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #545432;
+}	
+
+a:active
+{
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+	font-weight: bold;
+	color: #FFF33F;
+	text-decoration: underline;
+}
+a:hover { text-decoration: underline; }
+
+a:visited
+{
+	color: #DD0000;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+#main {
+    background:#ffffff;
+    float:left;
+    width:350px;
+    padding:10px;
+    }
+#sidebar {
+    background:#ddefef;
+    float:right;
+    width:300px;
+    padding:10px;
+    }
+
